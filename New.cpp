@@ -14,3 +14,16 @@ int gcd(int A, int B) {
 int lcm(int A, int B) {
     return (A * B) / gcd(A, B);
 }*/
+
+/* 소수 구하기
+bool isPrime(int N) {
+    if(N <= 1) {
+        return false;
+    }
+    for(int i = 2; i * i <= N; i++) {
+        if(N % i == 0) {
+            return false;
+        }
+    }
+    return true;
+}*/

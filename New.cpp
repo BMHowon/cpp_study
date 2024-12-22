@@ -27,3 +27,7 @@ bool isPrime(int N) {
     }
     return true;
 }*/
+
+/*소수점 N자리까지 출력하기
+cout.precision(N);
+*/

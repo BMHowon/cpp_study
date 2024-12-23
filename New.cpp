@@ -35,3 +35,7 @@ cout.precision(N);
 /*백터 내에서 중복을 제거하는 set
 #include <set> 과 함께 set<int> vectorname; 로 선언 
 값 넣을때 vectorname.insert(연산)*/
+
+/*문자열을 합하는 함수 to_string(A) + to_string(B)*/
+
+/*문자열을 정수형으로 바꿔주는 함수 stoi(stringname)*/

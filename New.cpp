@@ -31,3 +31,7 @@ bool isPrime(int N) {
 /*소수점 N자리까지 출력하기
 cout.precision(N);
 */
+
+/*백터 내에서 중복을 제거하는 set
+#include <set> 과 함께 set<int> vectorname; 로 선언 
+값 넣을때 vectorname.insert(연산)*/

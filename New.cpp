@@ -39,3 +39,10 @@ cout.precision(N);
 /*문자열을 합하는 함수 to_string(A) + to_string(B)*/
 
 /*문자열을 정수형으로 바꿔주는 함수 stoi(stringname)*/
+
+/*string으로 문자열 받아오기
+string line;
+    
+    while (getline(cin, line)) { 
+        cout << line << endl;   
+    }*/

@@ -46,3 +46,6 @@ string line;
     while (getline(cin, line)) { 
         cout << line << endl;   
     }*/
+
+/*소문자 대문자 변환
+#include <cctype>과 함께 isupper, islower, toupper, tolower함수 사용*/

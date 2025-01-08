@@ -49,3 +49,6 @@ string line;
 
 /*소문자 대문자 변환
 #include <cctype>과 함께 isupper, islower, toupper, tolower함수 사용*/
+
+/*문자열을 하나씩 보며 끝날때까지 반복하는 방법
+for(char c : s) string s가 있을 때 c에 하나하나 대응되어서 반복할 수 있음*/

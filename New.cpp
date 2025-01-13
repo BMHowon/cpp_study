@@ -52,3 +52,6 @@ string line;
 
 /*문자열을 하나씩 보며 끝날때까지 반복하는 방법
 for(char c : s) string s가 있을 때 c에 하나하나 대응되어서 반복할 수 있음*/
+
+/*vector 역순정렬
+sort(v.begin(), v.end(), greater<int>())*/

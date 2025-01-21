@@ -55,3 +55,7 @@ for(char c : s) string s가 있을 때 c에 하나하나 대응되어서 반복�
 
 /*vector 역순정렬
 sort(v.begin(), v.end(), greater<int>())*/
+
+/* result라는 문자열의 문자를 하나씩 보여 if문 적용
+for(char ch : result) {
+            if(ch == 'O')*/
